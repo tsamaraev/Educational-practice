@@ -20,7 +20,7 @@
 
 1. Клонируйте репозиторий или скачайте проект:
    ```bash
-   git clone https://github.com/yourusername/cafe-website.git
+   git clone https://github.com/tsamaraev/Educational-practice
 
 ---
 ### ссылка на сайт -> https://optu8wqa98zclykn.vercel.app/
